@@ -1,3 +1,7 @@
+### One of Top 150 github committers from Italy
+
+[![committers.top badge](https://user-badge.committers.top/italy/gbetorre.svg)](https://user-badge.committers.top/italy/gbetorre)
+
 ## IT Skills
 
 |             |             |               |               |               |
