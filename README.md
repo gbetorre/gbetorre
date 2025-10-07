@@ -1,8 +1,24 @@
-### One of Top 150 github committers from Italy
+### One of Top 250 github committers from Italy
 
 [![committers.top badge](https://user-badge.committers.top/italy/gbetorre.svg)](https://user-badge.committers.top/italy/gbetorre)
 
+## Main Projects
+
+|             |             |
+|   :----     |    :----    |
+| <img src="https://raw.githubusercontent.com/gbetorre/convenzioni/refs/heads/main/col/src/main/webapp/assets/images/screenshot/landing0.13.png" width="370" height="200">  <br><br> <a href="https://github.com/gbetorre/convenzioni/" data-view-component="true" class="Link mr-1 text-bold wb-break-word"><span class="repo">convenzioni</span></a>     <span class="badge badge-pill text-dark" style="background:lightgray">Public</span> <br> <span style="font-size:75%">Web Application to manage the government agreements</span>      |       <img src="https://raw.githubusercontent.com/gbetorre/rischi/659b4580dc206840dd26230587b8f75ee7d670b4/web/img/screenshot/landing2.27.png" width="300" height="200">  <br><br> <a href="https://github.com/gbetorre/rischi/" data-view-component="true" class="Link mr-1 text-bold wb-break-word"><span class="repo">rischi</span></a>     &nbsp;&nbsp;<span class="badge badge-pill text-dark" style="background:lightgray">Public</span> <br> <span style="font-size:75%">Web Application to map, quantify and manage the corruptive risk into an organization</span>   |
+
 ## IT Skills
+
+<!-- 
+| Programming Languages  | Scripting &amp; Frameworks |    Version Control     |    IDEs &amp; Tools      | Operative Systems  |
+|         :----:         |           :----:           |         :----:         |          :----:          |       :----:       |
+|[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) <br> Java | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) <br> JavaScript |  [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev) <br> Maven | [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) <br> Swift   |  [![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev) <br> Markdown   |
+|[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) <br> Python 3 | [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) <br> HTML | [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) <br> CSS  | [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) <br> Bootstrap | [![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev) <br> JQuery |
+|[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) <br> C++  | [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) <br> git | [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) <br> github  | [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) <br> PostgreSQL | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) <br> mySQL |
+|[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) <br> Eclipse IDE  | [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev) <br> Android Studio  | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) <br> Arduino      | [![My Skills](https://skillicons.dev/icons?i=sublime)](https://skillicons.dev) <br> Sublime      | [![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev) <br> vim      |
+|[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <br> Linux  | [![My Skills](https://skillicons.dev/icons?i=mint)](https://skillicons.dev) <br> Linux Mint  | [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) <br> Windows      | [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) <br> Bash      | [![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev) <br> Powershell      |
+-->
 
 |             |             |               |               |               |
 |   :----:    |    :----:   |     :----:    |     :----:    |     :----:    |
