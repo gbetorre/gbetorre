@@ -9,8 +9,8 @@
         <td width="50%" align="center">
             <img src="https://raw.githubusercontent.com/gbetorre/convenzioni/refs/heads/main/col/src/main/webapp/assets/images/screenshot/landing0.13.png" width="300" height="200">
             <br><br> 
-            <a href="https://github.com/gbetorre/convenzioni/" data-view-component="true" class="Link mr-1 text-bold wb-break-word">
-                <span class="repo">convenzioni</span>
+            <a href="https://github.com/gbetorre/convenzioni/" style="text-decoration:none;">
+                <strong>convenzioni</strong>
             </a>     
             <div class="badge badge-pill text-dark" style="background:lightgray">Public</div> <br> 
             <span style="font-size:75%">Web Application to manage the government agreements</span>
