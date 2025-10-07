@@ -9,19 +9,15 @@
         <td width="50%" align="center">
             <img src="https://raw.githubusercontent.com/gbetorre/convenzioni/refs/heads/main/col/src/main/webapp/assets/images/screenshot/landing0.13.png" width="300" height="200">
             <br><br> 
-            <a href="https://github.com/gbetorre/convenzioni/" style="text-decoration:none;">
-                <strong>convenzioni</strong>
-            </a>     
-            <div class="badge badge-pill text-dark" style="background:lightgray">Public</div> <br> 
+            <a href="https://github.com/gbetorre/convenzioni/"><strong>convenzioni</strong></a>     
+            <div>Public</div> <br> 
             <span style="font-size:75%">Web Application to manage the government agreements</span>
         </td>
         <td width="50%" align="center">
             <img src="https://raw.githubusercontent.com/gbetorre/rischi/659b4580dc206840dd26230587b8f75ee7d670b4/web/img/screenshot/landing2.27.png" width="300" height="200">
             <br><br> 
-            <a href="https://github.com/gbetorre/rischi/" data-view-component="true" class="Link mr-1 text-bold wb-break-word">
-                <span class="repo">rischi</span>
-            </a>
-            <div class="badge badge-pill text-dark" style="background:lightgray">Public</div> <br> 
+            <a href="https://github.com/gbetorre/rischi/"><strong>rischi</strong></a>
+            <div>Public</div> <br> 
             <span style="font-size:75%">Web Application to map, quantify and manage the corruptive risk within an organization</span>
         </td>
     </tr>
