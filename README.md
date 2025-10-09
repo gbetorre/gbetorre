@@ -7,14 +7,14 @@
 <table>
     <tr>
         <td width="50%" align="center">
-            <img src="https://raw.githubusercontent.com/gbetorre/convenzioni/refs/heads/main/col/src/main/webapp/assets/images/screenshot/landing0.13.png" width="300" height="200">
+            <img src="https://raw.githubusercontent.com/gbetorre/convenzioni/refs/heads/main/col/src/main/webapp/assets/images/screenshot/landing0.13.png" width="280" height="200">
             <br><br> 
             <a href="https://github.com/gbetorre/convenzioni/"><strong>convenzioni</strong></a>     
             <div>Public</div> <br> 
             <span style="font-size:75%">Web Application to manage the government agreements</span>
         </td>
         <td width="50%" align="center">
-            <img src="https://raw.githubusercontent.com/gbetorre/rischi/659b4580dc206840dd26230587b8f75ee7d670b4/web/img/screenshot/landing2.27.png" width="300" height="200">
+            <img src="https://raw.githubusercontent.com/gbetorre/rischi/659b4580dc206840dd26230587b8f75ee7d670b4/web/img/screenshot/landing2.27.png" width="280" height="200">
             <br><br> 
             <a href="https://github.com/gbetorre/rischi/"><strong>rischi</strong></a>
             <div>Public</div> <br> 
