@@ -18,7 +18,7 @@
             <br><br> 
             <a href="https://github.com/gbetorre/rischi/"><strong>rischi</strong></a>
             <div>Public</div> <br> 
-            <span style="font-size:75%">Web Application to map, quantify and manage the corruptive risk within an organization</span>
+            <span style="font-size:75%">Web Application to map, quantify and manage the corruptive risk within any organization</span>
         </td>
     </tr>
 </table>
